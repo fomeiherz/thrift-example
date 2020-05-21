@@ -10,6 +10,6 @@ Reference: http://thrift.apache.org/download
 > thrift -gen java hello.thrift  
 
 ### start  
-Start SimpleServer.java  
-Start SimpleClient.java  
+Start xxxServer.java  
+Start xxxClient.java  
 And you will see this output.  
